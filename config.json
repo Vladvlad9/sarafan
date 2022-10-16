@@ -1,0 +1,14 @@
+{
+  "BOT": {
+    "TOKEN": "5429787724:AAG7vo4G075ODo3dNhR6Zj-Ejpbilfhb-9k",
+    "ADMINS": [785496686, 608287610, 107013290, 1991572522]
+  },
+  "SUPPORT": {
+    "PHONE": "+375259379992",
+    "INSTAGRAM": "tytyty",
+    "EMAIL": "zazaza9@gmail.com",
+    "DISCORD": "123"
+  },
+  "DATABASE": "root:F6r58h7G2e@localhost:5432/sarafan",
+  "TELEGRAPH": "b324c39af61398b294b8d053b2df98caf794b4c2d21f824b4ddd8631acc7"
+}
